@@ -1,0 +1,3 @@
+rootProject.name = 'gonative_redux_md3'
+
+include ':app'
